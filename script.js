@@ -7,6 +7,5 @@ function isPalindrome(s) {
 }
 
 // Example usage:
-const input = "race a car";
-const result = isPalindrome(input);
+
 console.log(result); // Output: false
